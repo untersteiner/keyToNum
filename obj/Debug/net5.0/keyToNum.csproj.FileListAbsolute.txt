@@ -1,0 +1,16 @@
+C:\Users\DEV3\keyToNum\bin\Debug\net5.0\keyToNum.exe
+C:\Users\DEV3\keyToNum\bin\Debug\net5.0\keyToNum.deps.json
+C:\Users\DEV3\keyToNum\bin\Debug\net5.0\keyToNum.runtimeconfig.json
+C:\Users\DEV3\keyToNum\bin\Debug\net5.0\keyToNum.runtimeconfig.dev.json
+C:\Users\DEV3\keyToNum\bin\Debug\net5.0\keyToNum.dll
+C:\Users\DEV3\keyToNum\bin\Debug\net5.0\ref\keyToNum.dll
+C:\Users\DEV3\keyToNum\bin\Debug\net5.0\keyToNum.pdb
+C:\Users\DEV3\keyToNum\obj\Debug\net5.0\keyToNum.csprojAssemblyReference.cache
+C:\Users\DEV3\keyToNum\obj\Debug\net5.0\keyToNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV3\keyToNum\obj\Debug\net5.0\keyToNum.AssemblyInfoInputs.cache
+C:\Users\DEV3\keyToNum\obj\Debug\net5.0\keyToNum.AssemblyInfo.cs
+C:\Users\DEV3\keyToNum\obj\Debug\net5.0\keyToNum.csproj.CoreCompileInputs.cache
+C:\Users\DEV3\keyToNum\obj\Debug\net5.0\keyToNum.dll
+C:\Users\DEV3\keyToNum\obj\Debug\net5.0\ref\keyToNum.dll
+C:\Users\DEV3\keyToNum\obj\Debug\net5.0\keyToNum.pdb
+C:\Users\DEV3\keyToNum\obj\Debug\net5.0\keyToNum.genruntimeconfig.cache
