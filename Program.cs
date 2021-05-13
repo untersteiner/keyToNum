@@ -65,10 +65,10 @@ namespace keyToNum
                 {
                     if (num != 0)
                     {
-                        Console.WriteLine(num);
+                        Console.Write(num);
                     }else
                     {
-                        Console.WriteLine(" ");
+                        Console.Write(" ");
                     }
                     
                 }
